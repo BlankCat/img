@@ -11,3 +11,9 @@ git remote add origin https://github.com/BlankCat/img.git
 git push -u origin master
 
 ---
+
+
+##静态资源访问路径
+http://blankcat.top/img/icon/book_icon.png
+--
+blankcat.github.io/img/icon/book_icon.png
