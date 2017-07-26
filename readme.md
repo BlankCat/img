@@ -17,3 +17,5 @@ git push -u origin master
 http://blankcat.top/img/icon/book_icon.png
 --
 blankcat.github.io/img/icon/book_icon.png
+
+[二维码生成器](http://cli.im/)
