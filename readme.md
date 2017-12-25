@@ -18,4 +18,7 @@ http://blankcat.top/img/icon/book_icon.png
 --
 blankcat.github.io/img/icon/book_icon.png
 
+##静态资源访问路径
+http://blankcat.github.io/img/project/cms/cms_base.png
+
 [二维码生成器](http://cli.im/)
